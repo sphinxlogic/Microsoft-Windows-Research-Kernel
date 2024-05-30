@@ -1,0 +1,6 @@
+﻿  notmyfault.c
+notmyfault.c(38): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'LPVOID'
+  driver.c
+  Generating Code...
+  NotMyfault.vcxproj -> B:\08 Windows 10 1809\notmyfault\exe\.\Debug\NotMyfault.exe
+  NotMyfault.vcxproj -> .\Debug\NotMyfault.pdb (Full PDB)
